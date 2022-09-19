@@ -12,9 +12,6 @@ class Card {
   ) {
     this.image = './images/image-product-mobile.jpg';
 
-    // what percentage of discount is 20 dollars off 169.99
-    // 20 / 169.99 = 0.117
-
     this.hostElement = document.getElementById('app') as HTMLElement;
     this.cardElement = document.createElement('main') as HTMLElement;
 
