@@ -48,4 +48,5 @@ class Card {
     }
 }
 const card = new Card('Perfume', 'Gabrielle Essence Eau De Parfum', 'A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.', 169.99, 20);
+console.log('Hello World');
 //# sourceMappingURL=app.js.map

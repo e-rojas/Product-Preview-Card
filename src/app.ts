@@ -65,3 +65,5 @@ const card = new Card(
   169.99,
   20
 );
+
+console.log('Hello World');
