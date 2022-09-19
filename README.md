@@ -13,8 +13,8 @@ The challenge is to build out this product preview card component and get it loo
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/e-rojas/Product-Preview-Card)
+- Live Site URL: [live site URL](https://e-rojas.github.io/Product-Preview-Card/)
 
 ## My process
 
@@ -50,4 +50,3 @@ I learned how to use TypeScript and OOP to create a card. I learned how to use t
 ```
 
 - Website - [e-rojas](https://e-rojas.com/)
-- Twitter - [@bright_devs](hhttps://twitter.com/bright_devs)
