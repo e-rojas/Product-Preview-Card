@@ -26,6 +26,7 @@ For this challenge I wanted to work with the DOM with a different approach. I de
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- TypeScript
 
 ### What I learned
 
